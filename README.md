@@ -1,6 +1,8 @@
 flink-siddhi
 ============
 
+It is extended from https://github.com/haoch/flink-siddhi with added capabilities for checkpointing the CEP and control stream state.
+
 [![Travis CI](https://api.travis-ci.org/haoch/flink-siddhi.svg)](https://travis-ci.org/haoch/flink-siddhi)
 [![Clojars Project](https://img.shields.io/clojars/v/com.github.haoch/flink-siddhi_2.11.svg)](https://clojars.org/com.github.haoch/flink-siddhi_2.11)
 
